@@ -3,17 +3,17 @@
 Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli bir web tabanlı takip sistemidir. Kullanıcılar sisteme kayıt olabilir, giriş yapabilir ve kiralama işlemlerini yönetebilir.
 
 
-## 🚴‍♂️ Özellikler
+##  Özellikler
 
-- ✅ Kullanıcı kaydı ve oturum açma (şifreler hash'li olarak veritabanına kaydedilir)
-- ✅ Kiralama işlemleri: ekleme, listeleme, düzenleme, silme
-- ✅ Son giriş zamanı takibi
-- ✅ Bootstrap 5 ile responsive arayüz
-- ✅ PDO ile güvenli veritabanı işlemleri (SQL enjeksiyon korumalı)
-- ✅ Şifre doğrulama ve güçlü parola kontrolü
+-  Kullanıcı kaydı ve oturum açma (şifreler hash'li olarak veritabanına kaydedilir)
+-  Kiralama işlemleri: ekleme, listeleme, düzenleme, silme
+-  Son giriş zamanı takibi
+-  Bootstrap 5 ile responsive arayüz
+-  PDO ile güvenli veritabanı işlemleri (SQL enjeksiyon korumalı)
+-  Şifre doğrulama ve güçlü parola kontrolü
 
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - PHP (Backend)
 - MySQL (Veritabanı)
@@ -21,7 +21,7 @@ Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli
 - JavaScript (isteğe bağlı dinamik içerikler için)
 
 
-## 🗂️ Proje Yapısı
+##  Proje Yapısı
 
 ├── index.php → Giriş sayfası
 ├── register.php → Kayıt formu
@@ -37,7 +37,7 @@ Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli
 └── database_setup.sql → Veritabanı tablo yapısı
 
 
-## 🔒 Güvenlik
+##  Güvenlik
 
 - Şifreler PHP’nin password_hash() fonksiyonu ile güvenli biçimde saklanır.
 - Giriş işlemleri password_verify() ile doğrulanır.
@@ -49,9 +49,9 @@ Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli
 ## Ekran Görüntüleri
 ![AnaSayfa](img/anasayfa.png)
 
-![Giris_Ekrani](img/giris_ekrani.png)
+![Giris_Ekrani](img/giris.png)
 
-![Kayit_Ekrani](img/kayit_ekrani.png)
+![Kayit_Ekrani](img/kayit.png)
 
 ![Panel](img/panel.png)
 
