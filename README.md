@@ -3,6 +3,7 @@
 Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli bir web tabanlı takip sistemidir. Kullanıcılar sisteme kayıt olabilir, giriş yapabilir ve kiralama işlemlerini yönetebilir.
 
 [![Bisiklet Gorsel](img/bike.png)](http://95.130.171.20/~st22360859049/)
+Bu görsele tıklayarak projeyi deneyebilirsiniz.
 
 ##  Özellikler
 
