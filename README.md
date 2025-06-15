@@ -59,9 +59,7 @@ Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli
 
 ├── config.php → Veritabanı bağlantı ayarları
 
-├── classes/
-
-│ └── User.php → Kullanıcı işlemleri (register, login vb.)
+├── User.php → Kullanıcı işlemleri (register, login vb.)
 
 └── database_setup.sql → Veritabanı tablo yapısı
 
