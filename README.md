@@ -31,6 +31,12 @@ Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli
 ![Kiralama_Tamamla](img/kiralama_tamamla.png)
 
 
+## Video
+
+Projeyi canlı izlemek için kısa demo videosunu izleyin:  
+🔗 [Demo Videosu](https://youtu.be/QT8kYC_Nzjk)
+
+
 ##  Kullanılan Teknolojiler
 
 - PHP (Backend)
