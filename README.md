@@ -24,17 +24,29 @@ Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli
 ##  Proje Yapısı
 
 ├── index.php → Giriş sayfası
+
 ├── register.php → Kayıt formu
+
 ├── dashboard.php → Giriş sonrası kontrol paneli
+
 ├── add_rental.php → Kiralama ekleme formu
+
 ├── list_rentals.php → Kayıt listesi
+
 ├── edit_rental.php → Kayıt düzenleme
+
 ├── delete_rental.php → Silme işlemi
+
 ├── logout.php → Oturum sonlandırma
+
 ├── config.php → Veritabanı bağlantı ayarları
+
 ├── classes/
+
 │ └── User.php → Kullanıcı işlemleri (register, login vb.)
+
 └── database_setup.sql → Veritabanı tablo yapısı
+
 
 
 ##  Güvenlik
