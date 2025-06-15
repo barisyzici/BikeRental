@@ -13,6 +13,24 @@ Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli
 -  Şifre doğrulama ve güçlü parola kontrolü
 
 
+## Ekran Görüntüleri
+![AnaSayfa](img/anasayfa.png)
+
+![Giris_Ekrani](img/giris.png)
+
+![Kayit_Ekrani](img/kayit.png)
+
+![Panel](img/panel.png)
+
+![Yeni_Kiralama](img/yeni_kiralama.png)
+
+![Kiralama_Listesi](img/kiralama_listesi.png)
+
+![Kiralama_Duzenle](img/kiralama_duzenle.png)
+
+![Kiralama_Tamamla](img/kiralama_tamamla.png)
+
+
 ##  Kullanılan Teknolojiler
 
 - PHP (Backend)
@@ -55,22 +73,3 @@ Bu proje, bir bisiklet kiralama işletmesi için geliştirilen basit ve güvenli
 - Giriş işlemleri password_verify() ile doğrulanır.
 - Tüm sorgular PDO prepared statements ile yapılır.
 - XSS'e karşı girişlerde strip_tags, htmlspecialchars ve trim kullanılır.
-
-
-
-## Ekran Görüntüleri
-![AnaSayfa](img/anasayfa.png)
-
-![Giris_Ekrani](img/giris.png)
-
-![Kayit_Ekrani](img/kayit.png)
-
-![Panel](img/panel.png)
-
-![Yeni_Kiralama](img/yeni_kiralama.png)
-
-![Kiralama_Listesi](img/kiralama_listesi.png)
-
-![Kiralama_Duzenle](img/kiralama_duzenle.png)
-
-![Kiralama_Tamamla](img/kiralama_tamamla.png)
